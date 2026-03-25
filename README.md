@@ -22,7 +22,7 @@ The system is built around the `AssistenteJuridico` class, containing three spec
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SEU_USUARIO_AQUI/assistente-juridico.git](https://github.com/SEU_USUARIO_AQUI/assistente-juridico.git)
+   git clone [https://github.com/FGotz/assistente-juridico.git](https://github.com/FGotz/assistente-juridico.git)
 Install the required dependencies:
 
 Bash
