@@ -1,0 +1,109 @@
+Excelentíssimo(a) Senhor(a) Doutor(a) Juiz(a) de Direito da [Vara/Comarca, a ser preenchida caso houvesse endereçamento inicial]
+
+**CONTESTAÇÃO**
+
+**PROCESSO Nº:** [Número do Processo - Ausente no documento]
+**AUTOR(A):** [Qualificação do Autor - Ausente no documento]
+**RÉU(RÉ):** [Qualificação do Réu - A ser preenchida]
+
+[NOME DO RÉU/QUALIFICAÇÃO COMPLETA], por seu advogado infra-assinado, com escritório profissional no endereço [ENDEREÇO DO ESCRITÓRIO], onde recebe intimações e notificações, conforme procuração anexa, vem, respeitosamente, à presença de Vossa Excelência, apresentar sua **CONTESTAÇÃO** à pretensa "Petição Inicial" apresentada por [NOME DO AUTOR - Ausente no documento], o que faz pelos motivos de fato e de direito a seguir aduzidos:
+
+---
+
+### **I. SÍNTESE DOS FATOS ALEGADOS PELO "AUTOR"**
+
+O documento apresentado, que a parte autora intitula como "Petição Inicial", consiste em uma "FOLHA DE EXERCÍCIOS" de uma disciplina denominada "ELETRO I", pertencente à grade curricular da FATEC - SP (Faculdade de Tecnologia de São Paulo), com data prevista para 1º/2026.
+
+Tal documento elenca 11 (onze) problemas de física, com seus respectivos formulários e dados técnicos, versando sobre conceitos de eletricidade, tais como:
+1.  Cálculo de número de elétrons, corrente e tempo.
+2.  Determinação de intensidade de corrente e energia consumida em resistor.
+3.  Cálculo de tensão e corrente máximas suportadas por um resistor.
+4.  Determinação de resistência em diferentes temperaturas, considerando coeficiente de temperatura.
+5.  Cálculo de resistividade de material de fio em diferentes temperaturas e condições.
+6.  Cálculo de resistividade e corrente em diferentes temperaturas e condições.
+7.  Cálculo de tensão, resistência e energia consumida em aquecedor.
+8.  Cálculo de intensidade de corrente e energia consumida em lâmpada.
+9.  Cálculo de resistência, potência, energia (em Joules e kWh) e trabalho elétrico de aparelho.
+10. Cálculo de potência útil de saída de motor, considerando rendimento.
+11. Cálculo de resistência, energia consumida e intensidade de corrente em lâmpada.
+
+Em suma, a "Petição Inicial" não contém qualquer narrativa de fatos jurídicos, alegação de dano, violação de direito, descumprimento contratual, ato ilícito ou qualquer outra circunstância que pudesse configurar uma lide ou pretensão resistida passível de tutela jurisdicional. Os "pedidos" formulados consistem unicamente em solicitações para que se "determine" ou "calcule" as grandezas físicas descritas em cada problema, ou seja, meras questões de engenharia ou física aplicada.
+
+---
+
+### **II. DAS PRELIMINARES**
+
+Conforme será demonstrado, a peça vestibular anexa padece de vícios insanáveis que obstam o regular processamento do feito, impondo sua extinção sem resolução de mérito.
+
+**II.1. DA INÉPCIA DA PETIÇÃO INICIAL – AUSÊNCIA DOS REQUISITOS ESSENCIAIS**
+
+A presente "Petição Inicial" é manifestamente inepta, nos termos do artigo 330, inciso I, e §1º, do Código de Processo Civil (CPC), uma vez que não preenche qualquer um dos requisitos mínimos estabelecidos pelo artigo 319 do mesmo diploma legal.
+
+O documento anexado e tido por peça inaugural é, inequivocamente, uma lista de exercícios acadêmicos de física, desprovido de qualquer conteúdo jurídico. Senão vejamos os pontos em que a "Petição Inicial" é absolutamente falha:
+
+a)  **Ausência de Partes Identificadas e Qualificadas (Art. 319, II, CPC):** Não há qualificação do "Autor" ou do "Réu". O documento indica "Aluno", "Professor" e "Modalidade", em campos de preenchimento, o que reforça seu caráter acadêmico, não processual. Não é possível inferir quem litiga contra quem.
+b)  **Ausência de Endereçamento ao Juízo Competente (Art. 319, I, CPC):** A peça não é endereçada a qualquer Juízo ou Tribunal, sendo apenas identificada como "FATEC - SP".
+c)  **Ausência de Causa de Pedir (Art. 319, III, CPC):** O documento não descreve "os fatos e os fundamentos jurídicos do pedido". Não há narrativa de uma lide, de um conflito de interesses, de um dano sofrido ou de uma obrigação não cumprida que justifique a intervenção do Poder Judiciário. Os "fatos" narrados são enunciados de problemas físicos e não eventos jurídicos.
+d)  **Ausência de Pedido Certo e Determinado (Art. 319, IV, CPC):** Os "pedidos" formulados são meramente acadêmicos ("Determinar o número de elétrons", "Determine a intensidade da corrente", "Pede-se a máxima tensão", "Calcule a resistividade", etc.). Não há qualquer requerimento de provimento jurisdicional, como condenação a pagar quantia, cumprir obrigação, declarar direito, etc. Tais "pedidos" são completamente alheios à função jurisdicional.
+e)  **Ausência de Valor da Causa (Art. 319, V, CPC):** A "Petição Inicial" não atribui valor à causa, pois não há, de fato, uma causa judicial a ser valorada.
+f)  **Ausência de Provas Pretendidas (Art. 319, VI, CPC):** Embora a "Petição Inicial" mencione "Formulário", estes são meros auxiliares para a resolução dos problemas acadêmicos, e não "provas com que o autor pretende demonstrar a verdade dos fatos" jurídicos, os quais sequer foram alegados.
+
+A completa ausência de tais elementos inviabiliza, por completo, a compreensão de qualquer pretensão jurídica, configurando a inépcia da inicial e impedindo o exercício do contraditório e da ampla defesa, nos termos do §1º, incisos I e II, do art. 330 do CPC.
+
+**II.2. DA ILEGITIMIDADE DE PARTES – ATIVA E PASSIVA (Art. 337, XI, CPC)**
+
+Em decorrência da inépcia da petição, verifica-se a manifesta ilegitimidade tanto ativa quanto passiva.
+A "Petição Inicial" não permite identificar quem seria o sujeito ativo da suposta relação processual e, consequentemente, quem deteria a legitimidade para propor a demanda. Da mesma forma, não há qualquer indicação sobre quem seria o "Réu", isto é, o sujeito passivo contra quem a pretensão é dirigida.
+
+O documento é um mero instrumento pedagógico. A legitimidade de parte exige uma pertinência subjetiva da ação, ou seja, que as partes integrem a relação jurídica de direito material alegada. No caso, não há relação jurídica material alguma sendo discutida. A mera existência de um "Aluno" ou "Professor" num cabeçalho de folha de exercícios não os torna partes legítimas em um processo judicial.
+
+**II.3. DA AUSÊNCIA DE INTERESSE DE AGIR (Art. 17, CPC)**
+
+Conforme preconiza o artigo 17 do CPC, para postular em juízo é necessário ter interesse e legitimidade. O interesse de agir, por sua vez, caracteriza-se pela necessidade da tutela jurisdicional, pela utilidade que a demanda possa trazer ao demandante e pela adequação do meio processual escolhido.
+
+No caso em tela, não há qualquer necessidade de provocação do Poder Judiciário para que "se determine o número de elétrons" ou "calcule a resistividade". Tais atividades são inerentes ao campo do ensino de física e engenharia, a serem resolvidas em ambiente acadêmico, e não judicial. Não há utilidade na intervenção do Estado-Juiz para solucionar problemas de natureza estritamente científica ou didática. A via judicial é manifestamente inadequada para os "pedidos" formulados.
+
+A ausência de interesse de agir é patente, pois a pretensão do "Autor", tal como exposta, carece de qualquer relevância jurídica, não configurando uma lide ou questão que demande a pacificação social por meio da jurisdição.
+
+Diante do exposto, impõe-se o acolhimento das preliminares de inépcia da petição inicial, ilegitimidade de partes e ausência de interesse de agir, para extinguir o processo sem resolução de mérito, nos termos do artigo 485, incisos I, IV e VI, do Código de Processo Civil.
+
+---
+
+### **III. DO MÉRITO**
+
+Ainda que, por absurdo e apenas para fins de argumentação, Vossa Excelência entenda por rejeitar as preliminares arguidas, o que se admite apenas por argumentar, impõe-se a total improcedência dos "pedidos" do "Autor", dada a completa ausência de mérito jurídico.
+
+**III.1. DA INEXISTÊNCIA DE FATOS JURÍDICOS OU FUNDAMENTOS LEGAIS A AMPARAR A PRETENSÃO**
+
+Como exaustivamente demonstrado nas preliminares, o documento anexado como "Petição Inicial" não contém qualquer narrativa de fatos que possam ser qualificados como jurídicos. Não há alegação de violação de contrato, prática de ato ilícito, inadimplemento de obrigação, existência de dano ou qualquer outro evento que, à luz do direito brasileiro, pudesse gerar uma pretensão de direito material.
+
+Os "fatos" são meros enunciados de problemas teóricos e práticos da física, que demandam cálculos e aplicação de fórmulas, mas não provocam qualquer consequência no âmbito do direito civil ou de qualquer outro ramo do direito.
+O "Autor" não fundamenta seus "pedidos" em qualquer norma legal que atribua ao "Réu" a obrigação de resolver problemas de física, tampouco confere ao Poder Judiciário a competência para impor tal obrigação ou para homologar tais soluções.
+
+**III.2. DA IMPOSSIBILIDADE JURÍDICA DOS "PEDIDOS"**
+
+Os "pedidos" formulados são de natureza exclusivamente técnica e científica. A jurisdição civil, no Brasil, destina-se a dirimir conflitos de interesses qualificados por uma pretensão resistida, visando à aplicação do direito material às relações intersubjetivas.
+
+Não existe previsão legal que permita ao Poder Judiciário obrigar alguém a resolver problemas de física ou a "determinar" valores de grandezas físicas em um contexto de litígio. Os "pedidos" são, portanto, juridicamente impossíveis de serem atendidos por um provimento judicial.
+
+A pretensão do "Autor" é totalmente descabida e alheia à esfera de atuação do Judiciário, evidenciando a completa falta de mérito jurídico da suposta demanda.
+
+---
+
+### **IV. DOS PEDIDOS**
+
+Diante do exposto, o "Réu" requer a Vossa Excelência:
+
+a)  O acolhimento integral das preliminares arguidas, declarando-se a **inépcia da Petição Inicial**, a **ilegitimidade ativa e passiva** e a **ausência de interesse de agir** do "Autor", para que seja o processo **extinto sem resolução de mérito**, nos termos do artigo 485, incisos I, IV e VI, do Código de Processo Civil.
+b)  Subsidiariamente, caso as preliminares não sejam acolhidas, o que se admite apenas para argumentar, que seja julgada **totalmente improcedente** a pretensão do "Autor", ante a manifesta ausência de mérito jurídico.
+c)  A condenação do "Autor" ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais, a serem fixados nos termos do artigo 85 do Código de Processo Civil.
+d)  Protesta e requer provar o alegado por todos os meios de prova em direito admitidos, especialmente a prova documental.
+
+Termos em que,
+Pede deferimento.
+
+[Local], [Data].
+
+**[Assinatura do Advogado]**
+**[Nome Completo do Advogado]**
+**OAB/[Número da OAB]**
